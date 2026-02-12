@@ -1,3 +1,5 @@
+package edu.aitu.oop3.main;
+
 import edu.aitu.oop3.service.AppointmentService;
 import java.time.LocalDateTime;
 
